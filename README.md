@@ -1,5 +1,5 @@
 - 👋 Hi, I am @Pingumaniac
-- 👀 I am interested in database management systems (DBMS), cloud computing, software engineering, education software and game programming.
+- 👀 I am interested in database management systems (DBMS) and software engineering.
 - 🌱 I will apply for masters programmes in computer science to further study and research these topics, especially on DBMS.
 - 💞️ I am collaborating on developing education software with Professor Alexander Kuhn at the State University of New York Korea (SUNY Korea).
 - 📫 I’m a visiting student at Stony Brook University.
