@@ -1,5 +1,5 @@
 - 👋 Hi, I am @Pingumaniac
-- 👀 I am interested in human-computer interaction (HCI) and software engineering.
+- 👀 I am interested in human-computer interaction (HCI), database management systems (DBMS) and software engineering.
 - 🌱 I am going to apply for masters programmes in computer science to further study and research how computers can better interact with humans to solve software engineering problems more skillfully.
 - 💞️ I am collaborating on developing education software with Professor Alexander Kuhn at the State University of New York Korea (SUNY Korea).
 - 📫 I am a visiting student at Stony Brook University.
