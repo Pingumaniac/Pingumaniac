@@ -3,7 +3,7 @@
 - 👀 I am interested in human-computer interaction (HCI), software engineering, education technology, intelligent agents, and natural language processing.
 - 💞️ I have collaborated with Professor Alexander Kuhn on developing education software at the State University of New York Korea (SUNY Korea).
 - 🌱 I am working on my Master's applications in computer science. I would like to further study, explore and research how computers can better interact with us (humans) to solve problems that we (humans) face more skillfully through software engineering.
-- 💣 I am interested in education, health care, and smart fashion industries.
+- 💣 I am interested in education, health care, and smart fashion (which incorporates health care) industries.
 
 
 <!---
