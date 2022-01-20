@@ -6,8 +6,6 @@
 - 💣 I am interested in education industry.
 - 🏋️‍♂️ I like to go to the gym in my free time.
 - 📚 I like to read books in my free time.
-- 📄 Click [this](https://github.com/Pingumaniac/RESUME/blob/main/Youngjae%20Moon%20resume.pdf) to view my resume.
-
 
 <!---
 Pingumaniac/Pingumaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
