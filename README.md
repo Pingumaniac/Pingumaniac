@@ -5,7 +5,7 @@
 - 🌱 I am working on my Master's applications in computer science. I would like to further study, explore and research how computers can better interact with us to solve problems that we face more skillfully through software engineering.
 - 💣 I am interested in education industry.
 - 🏋️‍♂️ I like to go to the gym in my free time.
-- 📚 I like reading books in my free time.
+- 📚 I like to read books in my free time.
 - 📄 Click [this](https://github.com/Pingumaniac/RESUME/blob/main/Youngjae%20Moon%20resume.pdf) to view my resume.
 
 
