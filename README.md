@@ -1,7 +1,7 @@
 - 👋 Hi, I am @Pingumaniac. 
 - 📫 Currently, I am a visiting student at Stony Brook University (SBU). I am double majoring in computer science (CSE), and applied mathematics and statistics (AMS).
 - 🙏 I am an aspiring MS/PhD combined student in computer science.
-- 👀 I am interested in database management systems (DBMS), data mining, computer networking, software engineering (logic and AI-based software verification), computer graphics, and computational geometry.
+- 👀 I am interested in database management systems (DBMS), data mining, computer networking, and software engineering (logic and AI-based software verification).
 - 🏋️‍♂️ I like to go to the gym in my free time.
 - 📚 I like to read books in my free time.
 
