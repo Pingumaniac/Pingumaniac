@@ -1,5 +1,5 @@
 - 👋 Hi, I am @Pingumaniac. 
-- 🔥 I am an incoming M.Sc. in computer science student at Vanderbilt University.
+- 🔥 I am currently a Master's student in computer science at Vanderbilt University. I am also a recipient of Engineering Graduate Fellowship at Vanderbilt University.
 - 📫 I have graduated from the State University of New York Korea (SUNY Korea) with a double major in computer science (CSE), and applied mathematics and statistics (AMS). Thus, I have visited Stony Brook University (SBU) during August 2021 - May 2022. 
 - 🏋️‍♂️ I like to go to the gym in my free time.
 - 📚 I like to read books in my free time.
