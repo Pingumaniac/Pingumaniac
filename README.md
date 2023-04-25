@@ -1,6 +1,6 @@
 ## 👋 Hi, I am @Pingumaniac. 
 
-🇰🇷 About Me
+### 🇰🇷 About Me
 
 * 🔥 I am currently a Master's student in computer science and also a recipient of Engineering Graduate Fellowship at Vanderbilt University.
 * 🌱 My M.Sc. advisor is Yu Huang. Check out her website: https://yuhuang-lab.github.io/
