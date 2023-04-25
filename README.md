@@ -9,6 +9,13 @@
 * 📚 I like to read books in my free time.
 * 📌 I am a commander in chief.
 
+### 🛠 Tech stack
+* 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
+* 🪭 Web frameworks and libraries: Bootstrap, React.js, Redux, Node.js, Express.js, Flask
+* 💊 Data Science and Machine Learning libraries:: Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn, PyTorch
+* 🔮 UX Design Tools: Figma, Adobe XD
+* 🔫 Formal Verification Tools: NuSMV, Z3 Theorem Prover, PySMT
+
 <!---
 Pingumaniac/Pingumaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
