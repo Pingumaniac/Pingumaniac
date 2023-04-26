@@ -8,7 +8,7 @@
 * 📫 Thus, I have visited Stony Brook University (SBU) during August 2021 - May 2022. 
 * 🏋️‍♂️ I like to go to the gym in my free time.
 * 📚 I like to read books in my free time.
-* 📌 I am a commander in chief. I need many senior strategists.
+* 📌 I am a commander in chief. 
 
 ### 🎲 Course Plan at Vanderbilt (Subject to change)
 
