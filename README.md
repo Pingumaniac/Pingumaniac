@@ -1,6 +1,6 @@
 ## 👋 Hi, I am @Pingumaniac. 
 
-### 🇰🇷 About Me
+### 👨 About Me
 
 * 🔥 I am currently a Master's (M.Sc.) student in computer science and also a recipient of Engineering Graduate Fellowship at Vanderbilt University.
 * 🌱 My M.Sc. advisor is Professor Yu Huang (黄羽 教授). She is very nice (她很好). Please feel free to check out her website: https://yuhuang-lab.github.io/
@@ -12,7 +12,7 @@
 
 ### 🛠 Tech stack
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
-* 🪭 Web frameworks and libraries: Bootstrap, React.js, Redux, Node.js, Express.js, Flask
+* 💻 Web frameworks and libraries: Bootstrap, React.js, Redux, Node.js, Express.js, Flask
 * 💊 Data Science and Machine Learning libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn, PyTorch
 * 🔮 UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: NuSMV, Z3 Theorem Prover, PySMT
