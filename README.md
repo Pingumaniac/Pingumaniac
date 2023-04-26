@@ -10,6 +10,13 @@
 * 📚 I like to read books in my free time.
 * 📌 I am a commander in chief.
 
+### 🎲 Course Plan at Vanderbilt (Subject to change)
+
+* Spring 2023: CS 5891: Special Topics - The Algorithms of Robotics, CS 6315: Automated Verification, CS 6381: Distributed Systems Principles
+* Fall 2023: CS 5253: Parallel Functional Programming, CS 6376: Foundations of Hybrid and Embedded Systems, CS 6388: Model-Integrated Computing
+* Spring 2024: CS 5278: Principles of Software Engineering, CS 5891: Special Topics - Scalable Micro-services, CS 6310: Design and Analysis of Algorithms, CS 6377: Topics in Embedded Software and Systems
+* Fall 2024: CS 5239: Cyber-Physical Systems: Foundations and Project, CS 5287: Principles of Cloud Computing, CS 5281: Principles of Operating Systems I
+
 ### 🛠 Tech stack
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
 * 💻 Web frameworks and libraries: Bootstrap, React.js, Redux, Node.js, Express.js, Flask
