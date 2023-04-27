@@ -1,6 +1,6 @@
-## 👋 Hi, I am @Pingumaniac. 
+# 👋 Hi, I am @Pingumaniac. 
 
-### 👨 About Me
+## 👨 About Me
 
 * 🔥 I am currently a Master's (M.Sc.) student in computer science and also a recipient of Engineering Graduate Fellowship at Vanderbilt University.
 * 🌱 My M.Sc. advisor is Professor Yu Huang (黄羽 教授). She is very nice (她很好). Her success is my success.
@@ -11,7 +11,7 @@
 * 📌 I am a commander in chief. 
 * 🍽️ My favourite food is Peking duck (北京烤鸭). 
 
-### 🎲 Course Plan at Vanderbilt (Subject to change)
+## 🎲 Course Plan at Vanderbilt (Subject to change)
 
 * 🌎 Spring 2023: CS 5891: Special Topics - The Algorithms of Robotics, CS 6315: Automated Verification, CS 6381: Distributed Systems Principles
 * 🌍 Fall 2023: CS 5253: Parallel Functional Programming, CS 6376: Foundations of Hybrid and Embedded Systems, CS 6388: Model-Integrated Computing
@@ -21,16 +21,16 @@
 
 My plan over summer 2023 is to implement a functional programming language based on "Functional Programming Application and Implementation" by Peter Henderson. Thus, I will complete all the exercises in Scheme from "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman, Hal Abelson, and Julie Sussman.
 
-### 🌘Sample Courses that I would like to take while PhD
+## 🌘Sample Courses that I would like to take while PhD
  
 * 🌒 Systems: Compiler Optimization, Program Analysis, In-memory Database Implemenation, Distributed Database, Multi-core Programming, Computer Systems Security, Assembly Language Reverse Engineering
 * 🌓 Applications: Blockchain, Distributed Artificial Intelligence and Machine Learning, Natural Language Processing
 * 🌔 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Advanced Theory of Computation, Quantum Computing
 * 🌙 Graphics: 2D Game Programming, 3D Game Programming, Augmented Reality, Virtual Reality
 
-Note: I think every area is equivalently important. There is not a single area that is superior to the other. 
+#### Note: I think every area is equivalently important. There is not a single area that is superior to the other. 
 
-### 🛠 Tech stack
+## 🛠 Tech stack
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
 * 💻 Web frameworks and libraries: Bootstrap, React.js, Redux, Node.js, Express.js, Flask
 * 💊 Data Science and Machine Learning libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn, PyTorch
