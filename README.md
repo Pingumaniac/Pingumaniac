@@ -9,6 +9,7 @@
 * 🏋️‍♂️ I like to go to the gym in my free time.
 * 📚 I like to read books in my free time.
 * 📌 I am a commander in chief. 
+* 🍽️ My favourite food is Peking duck (北京烤鸭). 
 
 ### 🎲 Course Plan at Vanderbilt (Subject to change)
 
