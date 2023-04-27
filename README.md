@@ -17,14 +17,14 @@
 * 🌍 Fall 2023: CS 5253: Parallel Functional Programming, CS 6376: Foundations of Hybrid and Embedded Systems, CS 6388: Model-Integrated Computing
 * 🌏 Spring 2024: CS 5278: Principles of Software Engineering, CS 5891: Special Topics - Scalable Micro-services, CS 6310: Design and Analysis of Algorithms, CS 6377: Topics in Embedded Software and Systems
 * 🪐 Summer 2024: CS 7999: Master's Thesis Research
-* 🌗 Fall 2024: CS 5239: Cyber-Physical Systems: Foundations and Project, CS 5281: Principles of Operating Systems I, CS 7999: Master's Thesis Research
+* 🌙 Fall 2024: CS 5239: Cyber-Physical Systems: Foundations and Project, CS 5281: Principles of Operating Systems I, CS 7999: Master's Thesis Research
 
 My plan over summer 2023 is to implement a functional programming language based on "Functional Programming Application and Implementation" by Peter Henderson. Thus, I will complete all the exercises in Scheme from "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman, Hal Abelson, and Julie Sussman.
 
-## 🌘Sample Courses that I would like to take while PhD
+## 🌗 Sample Courses that I would like to take while PhD
  
-* 🌒 Systems: Compiler Optimization, Program Analysis, In-memory Database Implemenation, Distributed Database, Multi-core Programming 
-* 🌙 Security: Computer Systems Security, Assembly Language Reverse Engineering
+* 🌘 Systems: Compiler Optimization, Program Analysis, In-memory Database Implemenation, Distributed Database, Multi-core Programming 
+* 🌒 Security: Computer Systems Security, Assembly Language Reverse Engineering
 * 🌓 Applications: Blockchain, Distributed Artificial Intelligence and Machine Learning, Natural Language Processing
 * 🌔 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Advanced Theory of Computation, Quantum Computing
 * 🌕 Graphics: 2D Game Programming, 3D Game Programming, Augmented Reality, Virtual Reality
