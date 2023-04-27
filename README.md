@@ -19,6 +19,12 @@
 * 🪐 Summer 2024: CS 7999: Master's Thesis Research
 * 🌗 Fall 2024: CS 5239: Cyber-Physical Systems: Foundations and Project, CS 5281: Principles of Operating Systems I, CS 7999: Master's Thesis Research
 
+### 🌘Courses that I would like to take while PhD
+ 
+* Systems: Compiler Optimization, Program Analysis, In-memory Database Implemenation, Distributed Database, Multi-core Programming
+* Applications: Blockchain, Distributed Artificial Intelligence and Machine Learning, Natural Language Processing
+* Theory: Graph Algorithms, Parallel Algorithms, Type Theory
+
 ### 🛠 Tech stack
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
 * 💻 Web frameworks and libraries: Bootstrap, React.js, Redux, Node.js, Express.js, Flask
