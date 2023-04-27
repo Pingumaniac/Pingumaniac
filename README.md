@@ -23,7 +23,7 @@
  
 * 🌒 Systems: Compiler Optimization, Program Analysis, In-memory Database Implemenation, Distributed Database, Multi-core Programming
 * 🌓 Applications: Blockchain, Distributed Artificial Intelligence and Machine Learning, Natural Language Processing
-* 🌔 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Advanced Theory of Computation
+* 🌔 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Advanced Theory of Computation, Quantum Computing
 * 🌙 Graphics: 2D Game Programming, 3D Game Programming, Augmented Reality, Virtual Reality
 
 ### 🛠 Tech stack
