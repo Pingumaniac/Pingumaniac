@@ -26,6 +26,8 @@
 * 🌔 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Advanced Theory of Computation, Quantum Computing
 * 🌙 Graphics: 2D Game Programming, 3D Game Programming, Augmented Reality, Virtual Reality
 
+Note: I think every area is equivalently important. There is not a single area that is superior to the other. 
+
 ### 🛠 Tech stack
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
 * 💻 Web frameworks and libraries: Bootstrap, React.js, Redux, Node.js, Express.js, Flask
