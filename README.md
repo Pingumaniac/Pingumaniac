@@ -41,7 +41,7 @@
 
 ## 💡 Life Philosophy
 
-1. The wheel of compensation rotates like a Rectified Linear Unit (ReLU). Its rotation speed is initally really slow, but once it starts accelerating, it accelerates really fast. I will do what I think is the best all the time regardless of immediate return.
+1. The wheel of compensation rotates like a Rectified Linear Unit (ReLU). Its rotation speed is initally really slow, but once it starts accelerating, it accelerates really fast. I will do what I think is the best all the time regardless of immediate returns.
 2. Make other people feel comfortable when they talk to me and work with me.
 3. Minimise competition with other people and let my surrounding people succeed in their fields. My surrounding people's successes are my success.
 4. Treat everyone as my potential consumers.
