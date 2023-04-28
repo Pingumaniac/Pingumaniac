@@ -19,7 +19,7 @@
 * 🪐 Summer 2024: CS 7999: Master's Thesis Research
 * 🌙 Fall 2024: CS 5239: Cyber-Physical Systems: Foundations and Project, CS 5281: Principles of Operating Systems I, CS 7999: Master's Thesis Research
 
-My plan over summer 2023 is to implement a functional programming language based on "Functional Programming Application and Implementation" by Peter Henderson. Thus, I will complete all the exercises in Scheme from "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman, Hal Abelson, and Julie Sussman.
+🌕 My plan over summer 2023 is to implement a functional programming language based on "Functional Programming Application and Implementation" by Peter Henderson. Thus, I will complete all the exercises in Scheme from "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman, Hal Abelson, and Julie Sussman.
 
 ## 🌖 Sample Courses that I would like to take while PhD
  
@@ -29,7 +29,7 @@ My plan over summer 2023 is to implement a functional programming language based
 * 🌓 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Advanced Theory of Computation, Quantum Computing
 * 🌔 Graphics: 2D Game Programming, 3D Game Programming, Augmented Reality, Virtual Reality
 
-#### 🌕 Note: I think every area is equivalently important. There is not a single area that is superior to the other. 
+####  Note: I think every area is equivalently important. There is not a single area that is superior to the other. Thus, I will learn some of these disciplines via online (e.g. Coursera, edX, Udemy).
 
 ## 🛠 Tech stack
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
