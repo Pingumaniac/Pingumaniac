@@ -21,15 +21,15 @@
 
 My plan over summer 2023 is to implement a functional programming language based on "Functional Programming Application and Implementation" by Peter Henderson. Thus, I will complete all the exercises in Scheme from "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman, Hal Abelson, and Julie Sussman.
 
-## 🌗 Sample Courses that I would like to take while PhD
+## 🌖 Sample Courses that I would like to take while PhD
  
-* 🌘 Systems: Compiler Optimization, Program Analysis, In-memory Database Implemenation, Distributed Database, Multi-core Programming 
-* 🌒 Security: Computer Systems Security, Assembly Language Reverse Engineering
-* 🌓 Applications: Blockchain, Distributed Artificial Intelligence and Machine Learning, Natural Language Processing
-* 🌔 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Advanced Theory of Computation, Quantum Computing
-* 🌕 Graphics: 2D Game Programming, 3D Game Programming, Augmented Reality, Virtual Reality
+* 🌗 Systems: Compiler Optimization, Program Analysis, In-memory Database Implemenation, Distributed Database, Multi-core Programming 
+* 🌘 Security: Computer Systems Security, Assembly Language Reverse Engineering, Blockchain Security
+* 🌒 Machine Learning: Distributed Artificial Intelligence and Machine Learning, Natural Language Processing, Machine Learning Verification
+* 🌓 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Advanced Theory of Computation, Quantum Computing
+* 🌔 Graphics: 2D Game Programming, 3D Game Programming, Augmented Reality, Virtual Reality
 
-#### Note: I think every area is equivalently important. There is not a single area that is superior to the other. 
+#### 🌕 Note: I think every area is equivalently important. There is not a single area that is superior to the other. 
 
 ## 🛠 Tech stack
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
