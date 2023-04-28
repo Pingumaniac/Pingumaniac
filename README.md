@@ -39,6 +39,19 @@
 * 🔮 UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: NuSMV, Z3 Theorem Prover, PySMT
 
+## 💡 Life Philosophy
+
+1. The wheel of compensation rotates like a Rectified Linear Unit (ReLU). Its rotation speed is initally really slow, but once it starts accelerating, it accelerates really fast. I will do what I think is the best all the time regardless of immediate return.
+2. Make other people feel comfortable when they talk to me and work with me.
+3. Minimise competition with other people and let my surrounding people succeed in their fields. My surrounding people's successes are my success.
+4. Treat everyone as my potential consumers.
+5. Differentiate when to step forward, when to stop, and when to strategically retreat.
+6. Admire Elon Musk and learn from him as much as possible, but behave differently from him. I will employ assymmetric strategies.
+7. Large organisations need various types of people. Embrace diversity and their skills.
+8. There are no desperate situations. There are only desperate people.
+9. Always work in a standard that the world expects. The standard that the world expects is extremely high and it is my duty to always achieve it.
+10. Be a visionaire. 
+
 <!---
 Pingumaniac/Pingumaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
