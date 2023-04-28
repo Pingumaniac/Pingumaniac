@@ -27,7 +27,7 @@
 * 🌗 Architecture: Multi-core Programming, non-Von Neumann Architecture
 * 🌘 Security: Computer Systems Security, Assembly Language Reverse Engineering, Blockchain Security
 * 🌒 Machine Learning: Distributed Artificial Intelligence and Machine Learning, Natural Language Processing, Machine Learning Verification
-* 🌓 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Advanced Theory of Computation, Quantum Algorithms
+* 🌓 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Quantum Algorithms
 * 🌔 Graphics: 2D Game Programming, 3D Game Programming, Augmented Reality, Virtual Reality
 
 ####  Note: I think every area is equivalently important. There is not a single area that is superior to the other. Thus, I will learn some of these disciplines via online (e.g. Coursera, edX, Udemy).
