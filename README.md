@@ -47,7 +47,7 @@
 4. Treat everyone as my potential consumers.
 5. Differentiate when to step forward, when to stop, and when to strategically retreat.
 6. Admire Elon Musk and learn from him as much as possible, but behave differently from him. I will employ assymmetric strategies.
-7. Large organisations need various types of people. Embrace diversity and their skills.
+7. Large organisations need various types of people. Embrace diversity and their skills. And be fair to other people. Otherwise, I will not be able to lead a large group of people.
 8. There are no desperate situations. There are only desperate people.
 9. Always work in a standard that the world expects. The standard that the world expects is extremely high and it is my duty to always achieve it.
 10. Be a visionaire. 
