@@ -52,6 +52,7 @@
 9. Always work in a standard that the world expects. The standard that the world expects is extremely high and it is my duty to always achieve it.
 10. Be a visionaire. The world is large and there are a lot of things to do.
 11. Be sensitive about how consumer behavior changes over time for various markets.
+12. Be sensitive about how the supply-side factors change over time for various markets.
 
 <!---
 Pingumaniac/Pingumaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
