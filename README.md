@@ -9,7 +9,7 @@
 * 🏋️‍♂️ I like to go to the gym in my free time.
 * 📚 I like to read books in my free time.
 * 📌 I am a commander in chief. I am always looking for clever and diligent chief strategists who can complete my incomplete strategies.
-* 🍽️ My favourite food is Peking duck (北京烤鸭). 
+* 🍽️ My favourite food is Peking duck (北京烤鸭). Harbin lamb skewers are delicious as well.
 
 ## 🎲 Course Plan at Vanderbilt (Subject to change)
 
