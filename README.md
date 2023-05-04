@@ -53,7 +53,7 @@
 10. Be a visionary. The world is large, and there are a lot of things to do.
 11. Be sensitive about how consumer behaviour changes over time for various markets.
 12. Be sensitive about how the supply-side factors change over time for various markets.
-13. Ideas are only worth high when they can be employed in the real-world and commercialised.
+13. Ideas worth only high when they can be employed in the real-world and commercialised.
 
 <!---
 Pingumaniac/Pingumaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
