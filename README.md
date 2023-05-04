@@ -28,7 +28,7 @@
 * 🌘 Security: Computer Systems Security, Assembly Language Reverse Engineering, Blockchain Security
 * 🌒 Machine Learning: Distributed Artificial Intelligence and Machine Learning, Natural Language Processing, Machine Learning Verification
 * 🌓 Theory: Graph Algorithms, Parallel Algorithms, Type Theory, Quantum Algorithms
-* 🌔 Graphics: 2D Game Programming, 3D Game Programming, Augmented Reality, Virtual Reality
+* 🌔 Graphics and Game Programming: 2D Game Programming, 3D Game Programming, AR/VR Game Programming, Non-fungible token (NFT) games
 
 ####  Note: I think every area is equivalently important. There is not a single area that is superior to the other. Thus, I will learn some of these disciplines via online (e.g. Coursera, edX, Udemy).
 
