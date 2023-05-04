@@ -34,7 +34,7 @@
 
 ## 🛠 Tech stack
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
-* 💻 Web frameworks and libraries: Bootstrap, React.js, Redux, Node.js, Express.js, Flask
+* 💻 Web frameworks and libraries: Bootstrap, MERN stack, Flask
 * 💊 Data Science and Machine Learning libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn, PyTorch
 * 🔮 UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: NuSMV, Z3 Theorem Prover, PySMT
