@@ -39,7 +39,7 @@
 보상의 수레바퀴는 렐루 함수처럼 회전합니다. 처음에 도는 속도는 매우 느리지만, 가속도가 붙기 시작하면, 가속하는 속도가 매우 빠릅니다. 당장의 보상이 없더라도 제가 가장 좋다고 생각하는 것을 항상 하겠습니다.
 
 2. Make other people feel comfortable talking to and working with me. 
-다른 사람이 제게 말할 때와 일할 때 편하게 하겠습니다.
+다른 사람이 제게 말할 때와 일할 때 편하게 느끼드록 하겠습니다.
 
 3. Minimise competition with others and let my surrounding people succeed in their fields. My surrounding people's successes are my success. 
 다른 사람과 경쟁을 최소화하고 다른 사람들이 각자 분야에서 성공하도록 돕겠습니다.
