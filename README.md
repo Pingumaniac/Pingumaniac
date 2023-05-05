@@ -57,7 +57,7 @@
 절망적인 상황은 없습니다. 절망하는 사람만 있을 뿐이지요.
 
 8. Always work to a standard that the world expects. The standard that the world expects is extraordinarily high, and I must consistently achieve it.
-세상의 원하는 기준에 맞추어서 항상 일하겠습니다. 세상이 원하는 기준은 엄청나게 높으며 항상 달성해야 하는 의무가 제게는 있습니다.
+세상의 원하는 기준에 맞추어서 항상 일하겠습니다. 세상이 원하는 기준은 엄청나게 높으며, 항상 달성해야 하는 의무가 제게는 있습니다.
 
 9. Be a visionary. The world is large, and there are a lot of things to do.
 비전을 제시하는 사람이 되겠습니다. 세상은 넓고 언제나 할 일이 많습니다.
