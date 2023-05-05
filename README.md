@@ -14,7 +14,7 @@
 * 📫 Thus, I visited Stony Brook University (SBU) from August 2021 - May 2022. 
 그리고, 스토니브룩(본교)로 2021년 8월부터 2022년 5월까지 교환학생으로 방문하였습니다..
 
-* 🏋️‍♂️ I like to go to the gym.
+* 🏋️‍♂️ I like to go to a gym.
 헬스장 가는 것을 좋아합니다.
 
 * 📚 I like to read books.
