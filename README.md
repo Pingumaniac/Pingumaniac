@@ -30,7 +30,7 @@
 * 💎 Programming Languages (프로그래밍 언어): C++, Go, Java, JavaScript, Python, R, Racket, SQL
 * 💻 Web frameworks and libraries (웹 프레임워크 및 라이브러리): Bootstrap, React.js & Redux, NodeJS & ExpressJS, Flask
 * 💊 Data Science and Machine Learning libraries (데이터 과학 및 머신러닝 라이브러리): Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn, PyTorch
-* 🔮 UI/UX Design Tools (UI/UX 디자인 툴): Figma, Adobe XD
+* 🔮 UI/UX Design Tools (유저 인터페이스 및 유저 경험 디자인 툴): Figma, Adobe XD
 * 🔫 Formal Verification Tools (공식 검증 도구): NuSMV, Z3 Theorem Prover, PySMT
 
 ## 💡 Life Philosophy (인생 철학)
