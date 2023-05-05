@@ -11,16 +11,6 @@
 * 📌 I pursue to be an excellent generalist.
 * 🍽️ My favourite food is Peking duck (北京烤鸭). Harbin lamb skewers are delicious as well.
 
-## 🎲 Course Plan at Vanderbilt (Subject to change)
-
-* 🌎 Spring 2023: CS 5891: Special Topics - The Algorithms of Robotics, CS 6315: Automated Verification, CS 6381: Distributed Systems Principles
-* 🌍 Fall 2023: CS 5253: Parallel Functional Programming, CS 6376: Foundations of Hybrid and Embedded Systems, CS 6388: Model-Integrated Computing
-* 🌏 Spring 2024: CS 5278: Principles of Software Engineering, CS 5891: Special Topics - Scalable Micro-services, CS 6310: Design and Analysis of Algorithms, CS 6377: Topics in Embedded Software and Systems
-* 🪐 Summer 2024: CS 7999: Master's Thesis Research
-* 🌙 Fall 2024: CS 5239: Cyber-Physical Systems: Foundations and Project, CS 5281: Principles of Operating Systems I, CS 7999: Master's Thesis Research
-
-#### Over the summer 2023, I implement a functional programming language based on "Functional Programming Application and Implementation" by Peter Henderson. Thus, I will complete all the exercises in Scheme from "Structure and Interpretation of Computer Programs" by Gerald Jay Sussman, Hal Abelson, and Julie Sussman.
-
 ## 🛠 Tech stack
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
 * 💻 Web frameworks and libraries: Bootstrap, React.js & Redux, NodeJS & ExpressJS, Flask
