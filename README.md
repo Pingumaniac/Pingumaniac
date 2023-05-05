@@ -63,7 +63,7 @@
 비전을 제시하는 사람이 되겠습니다. 세상은 넓고 언제나 할 일이 많습니다.
 
 10. Be sensitive about how consumer behaviour changes over time for various markets.
-소비자 심리가 다양한 시장에서 시간에 따라 어떻게 바뀌는지 면밀하게 관찰하겠습니다.
+다양한 시장의  시간에 따라 어떻게 바뀌는지 면밀하게 관찰하겠습니다.
 
 11. Be sensitive about how the supply-side factors change over time for various markets.
 다양한 시장의 공급자 요소들이 시간에 따라 어떻게 바뀌는지 면밀하게 관찰하겠습니다.
