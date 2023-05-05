@@ -3,7 +3,7 @@
 ## 👨 About Me
 
 * 🔥 I am currently a Master's (M.Sc.) student in computer science and also a recipient of Engineering Graduate Fellowship at Vanderbilt University.
-* 🌱 My M.Sc. advisor is Professor Yu Huang (黄羽 教授). She is very nice (她很好). Her success is my success.
+* 🌱 My M.Sc. advisor is Professor Yu Huang (黄羽 教授 황우 교수). She is very nice (她很好 매우 좋다). Her success is my success.
 * 🎓 I graduated from the State University of New York Korea (SUNY Korea) with a double major in computer science (CSE), and applied mathematics and statistics (AMS). 
 * 📫 Thus, I visited Stony Brook University (SBU) from August 2021 - May 2022. 
 * 🏋️‍♂️ I like to go to the gym in my free time.
