@@ -1,6 +1,6 @@
-# 👋 Hi, I am @Pingumaniac. 
+# 👋 Hi, I am @Pingumaniac. (안녕하세요, 저는 핑구매니아입니다.)
 
-## 👨 About Me
+## 👨 About Me (저에 관하여)
 
 * 🔥 I am currently a Master's (M.Sc.) student in computer science and also a recipient of Engineering Graduate Fellowship at Vanderbilt University.
 저는 현재 밴더빌트 대학원에서 컴퓨터과학 석사과정을 밟고 있으며 내부 펠로쉽을 받고 다니는 학생입니다.
@@ -26,14 +26,14 @@
 * 🍽️ My favourite food is Peking duck (北京烤鸭). Harbin lamb skewers are delicious as well.
 제가 제일 좋아하는 음식은 북경오리입니다. 하얼빈 양꼬치도 맛있어요.
 
-## 🛠 Tech stack
-* 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, SQL
-* 💻 Web frameworks and libraries: Bootstrap, React.js & Redux, NodeJS & ExpressJS, Flask
-* 💊 Data Science and Machine Learning libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn, PyTorch
-* 🔮 UX Design Tools: Figma, Adobe XD
-* 🔫 Formal Verification Tools: NuSMV, Z3 Theorem Prover, PySMT
+## 🛠 Tech stack (기술 스택)
+* 💎 Programming Languages (프로그래밍 언어): C++, Go, Java, JavaScript, Python, R, Racket, SQL
+* 💻 Web frameworks and libraries (웹 프레임워크 및 라이브러리): Bootstrap, React.js & Redux, NodeJS & ExpressJS, Flask
+* 💊 Data Science and Machine Learning libraries (데이터 과학 및 머신러닝 라이브러리): Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn, PyTorch
+* 🔮 UI/UX Design Tools (UI/UX 디자인 툴): Figma, Adobe XD
+* 🔫 Formal Verification Tools (공식 검증 도구): NuSMV, Z3 Theorem Prover, PySMT
 
-## 💡 Life Philosophy
+## 💡 Life Philosophy (인생 철학)
 
 1. The wheel of compensation rotates like a Rectified Linear Unit (ReLU). Its rotation speed is initially really slow, but once it starts accelerating, it accelerates really fast. I will always do what I think is the best regardless of immediate returns.
 2. Make other people feel comfortable talking to and working with me.
