@@ -1,4 +1,4 @@
-## 💡 Life Philosophy (인생 철학)
+# 💡 Life Philosophy (인생 철학)
 
 1. The wheel of compensation rotates like a Rectified Linear Unit (ReLU). Its rotation speed is initially really slow, but once it starts accelerating, it accelerates really fast. I will always do what I think is the best regardless of immediate returns. 
 보상의 수레바퀴는 렐루 함수처럼 회전합니다. 처음에 도는 속도는 매우 느리지만, 가속도가 붙기 시작하면, 가속하는 속도가 매우 빠릅니다. 당장의 보상이 없더라도 제가 가장 좋다고 생각하는 것을 항상 하겠습니다.
