@@ -21,9 +21,6 @@
 * 📚 I like to read books.
  책을 읽는 것을 좋아합니다.
 
-* 🍽️ My favourite food is Peking duck (北京烤鸭). Harbin lamb skewers are delicious as well.
-제가 제일 좋아하는 음식은 북경오리입니다. 하얼빈 양꼬치도 맛있어요.
-
 ## 🛠 Tech stack (기술 스택)
 * 💎 Programming Languages (프로그래밍 언어): C++, Go, Java, JavaScript, Python, R, Racket, SQL
 * 💻 Web frameworks and libraries (웹 프레임워크 및 라이브러리): Bootstrap, React.js & Redux, NodeJS & ExpressJS, Flask
