@@ -21,9 +21,6 @@
 * 📚 I like to read books.
  책을 읽는 것을 좋아합니다.
 
-* 📌 I pursue to be an excellent generalist.
-저는 뛰어난 제너럴리스트가 되기를 추구합니다.
-
 * 🍽️ My favourite food is Peking duck (北京烤鸭). Harbin lamb skewers are delicious as well.
 제가 제일 좋아하는 음식은 북경오리입니다. 하얼빈 양꼬치도 맛있어요.
 
