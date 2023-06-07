@@ -2,7 +2,7 @@
 
 ## Chinese Foods
 1. Peking duck (北京烤鸭)
-2. Harbin lamb skewers 
+2. Harbin lamb skewers (哈尔滨羊肉串)
 3. huǒguō (火锅)
 4. jiǎozi (饺子)
 5. zhēngjiǎo (蒸饺) 
