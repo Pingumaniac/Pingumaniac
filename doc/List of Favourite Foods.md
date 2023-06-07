@@ -1,4 +1,4 @@
-# Favourite Foods
+# List of Favourite Foods
 
 ## Chinese Foods
 1. Peking duck (北京烤鸭)
