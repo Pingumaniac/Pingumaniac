@@ -1,4 +1,5 @@
-# Goals (목표)
+# Goals 
+목표
 
 1. Be an excellent generalist. 뛰어난 제너럴리스트가 되겠습니다.
 
