@@ -1,7 +1,5 @@
 # Course Plan at Vanderbilt University
 
-Subject to change.
-
 ## Spring 2023 
 1. CS 5891: Special Topics - The Algorithms of Robotics
 2. CS 6315: Automated Verification
