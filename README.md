@@ -9,12 +9,6 @@
 * 🌱 My M.Sc. advisor is Professor Yu Huang (黄羽 教授). She is very nice (她很好). Her success is my success.
 제 석사 지도교수님은 황우 교수님이십니다. 황교수님은 매우 좋습니다. 황교수님의 성공이 제 성공입니다.
 
-* 🎓 I graduated from the State University of New York Korea (SUNY Korea) with a double major in computer science (CSE), and applied mathematics and statistics (AMS). 
-저는 한국뉴욕주립대(스토니브룩)에서 컴퓨터과학과와 응용수학통계학과를 복수전공해서 졸업하였습니다.
-
-* 📫 Thus, I visited Stony Brook University (SBU) from August 2021 - May 2022. 
-그리고, 스토니브룩(본교)로 2021년 8월부터 2022년 5월까지 교환학생으로 방문하였습니다.
-
 * 🏋️‍♂️ I like to go to a gym.
 헬스장 가는 것을 좋아합니다.
 
