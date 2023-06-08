@@ -7,6 +7,11 @@
 4. jiǎozi (饺子)
 5. zhēngjiǎo (蒸饺) 
 6. jiānjiǎo (煎饺)
+7. Zòngzi (粽子)
+8. Xiǎolóngbāo (小笼包)
+9. Chǎo mǐfěn (炒米粉)
+10. Dàchángmiànxiàn (大肠面线)
+11. Cōngzhuābǐng (葱抓饼)
 
 ## Korean Foods
 1. 불고기
