@@ -1,4 +1,4 @@
-# About Being Independent
+# About Being Independent Thinker
 
 I agree that knowing how to think and behave independently is a critical skill which shall be recognised and praised. 
 But to be a great independent thinker, you should know how others think and behave. 
