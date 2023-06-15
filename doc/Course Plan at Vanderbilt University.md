@@ -12,7 +12,7 @@
 
 ## Spring 2024 
 1. CS 5278: Principles of Software Engineering
-2. CS 5281: Principles of Operating Systems I
+2. CS 5891: Special Topics - Scalable Microservices
 3. CS 5892: Special Topics - Autonomous Vehicles
 4. CS 6377: Topics in Embedded Software and Systems
 
@@ -20,6 +20,6 @@
 1. CS 7999: Master's Thesis Research
 
 ## Fall 2024
-1. CS 5239: Cyber-Physical Systems: Foundations and Project
+1. CS 5281: Principles of Operating Systems I
 2. CS 7999: Master's Thesis Research
 3. CS 8395: Special Topics - Advanced Topics in Software Engineering
