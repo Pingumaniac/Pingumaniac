@@ -7,8 +7,3 @@
 5. Admire Elon Musk and learn from him as much as possible, but behave differently from him. I will employ asymmetric strategies. 
 6. Large organisations need various types of people. Embrace diversity and their skills. 
 7. There are no desperate situations. There are only desperate people.
-8. Always work to a standard that the world expects. The standard that the world expects is extraordinarily high, and I must consistently achieve it.
-9. Be a visionary. The world is large, and there are a lot of things to do.
-10. Be sensitive about how consumer behaviour changes over time for various markets.
-11. Be sensitive about how the supply-side factors change over time for various markets.
-12. Ideas worth only high when they can be employed in the real-world and commercialised.
