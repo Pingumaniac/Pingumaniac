@@ -6,7 +6,7 @@
 * 🌱 My M.Sc. advisor is Professor Yu Huang (黄羽 教授). She is very nice (她很好). Her success is my success.
 * 🏋️‍♂️ I like to go to a gym.
 * 📚 I like to read books.
-* 
+
 ## 🛠 Tech stack 
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
