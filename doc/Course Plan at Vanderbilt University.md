@@ -14,7 +14,7 @@
 ## Spring 2024 
 1. CS 5278: Principles of Software Engineering
 2. CS 5891: Special Topics - Scalable Microservices
-3. CS 5892: Special Topics - Autonomous Vehicles
+3. CS 6310: Design and Analysis of Algorithms
 4. CS 6377: Topics in Embedded Software and Systems
 
 ## Summer 2024
