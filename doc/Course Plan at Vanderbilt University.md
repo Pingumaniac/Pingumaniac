@@ -18,7 +18,7 @@
 4. CS 6377: Topics in Embedded Software and Systems
 
 ## Fall 2024
-1. CS 5239: Cyber-Physical Systems: Foundations and Project
-2. CS 5286: Reverse Engineering for Cybersecurity
-3. CS 6362: Advanced Machine Learning
-4. CS 8395: Special Topics - Advanced Topics in Software Engineering
+1. CS 5286: Reverse Engineering for Cybersecurity
+2. CS 6362: Advanced Machine Learning
+3. CS 8395: Special Topics - Advanced Topics in Software Engineering
+4. CS 8395: Special Topics - Security and Privacy in Pervasive Computing
