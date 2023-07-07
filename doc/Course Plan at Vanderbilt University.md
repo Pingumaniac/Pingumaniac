@@ -22,5 +22,6 @@
 
 ## Fall 2024
 1. CS 5286: Reverse Engineering for Cybersecurity
+2. CS 6362: Advanced Machine Learning
 3. CS 7999: Master's Thesis Research
 4. CS 8395: Special Topics - Advanced Topics in Software Engineering
