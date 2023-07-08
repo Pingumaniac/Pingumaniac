@@ -17,9 +17,6 @@
 3. CS 5891: Special Topics - Scalable Microservices
 4. CS 6377: Topics in Embedded Software and Systems
 
-## Summer 2024
-1. CS 7999: Master's Thesis Research
-
 ## Fall 2024
 1. CS 5249: Projects in Virtual Reality Design
 2. CS 5286: Reverse Engineering for Cybersecurity
