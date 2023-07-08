@@ -21,4 +21,3 @@
 1. CS 5249: Projects in Virtual Reality Design
 2. CS 5286: Reverse Engineering for Cybersecurity
 3. CS 8395: Special Topics - Advanced Topics in Software Engineering
-4. CS 8395: Special Topics - Security and Privacy in Pervasive Computing
