@@ -7,9 +7,8 @@
 
 ## Fall 2023 
 1. CS 5253: Parallel Functional Programming
-2. CS 6357: Open-source Programming for Medical Image Analysis
-3. CS 6376: Foundations of Hybrid and Embedded Systems
-4. CS 6388: Model-Integrated Computing
+2. CS 6376: Foundations of Hybrid and Embedded Systems
+3. CS 6388: Model-Integrated Computing
 
 ## Spring 2024 
 1. CS 5278: Principles of Software Engineering
