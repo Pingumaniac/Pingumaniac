@@ -11,8 +11,8 @@
 3. CS 6388: Model-Integrated Computing
 
 ## Spring 2024 
-1. CS 5278: Principles of Software Engineering
-2. CS 5281: Principles of Operating Systems I
+1. CS 5266: Topics in Big Data
+2. CS 5278: Principles of Software Engineering
 3. CS 5891: Special Topics - Scalable Microservices
 4. CS 6377: Topics in Embedded Software and Systems
 
@@ -20,4 +20,3 @@
 1. CS 5239: Cyber-Physical Systems: Foundation & Projects
 2. CS 5286: Reverse Engineering for Cybersecurity
 3. CS 8395: Special Topics - Advanced Topics in Software Engineering
-4. CS 8395: Special Topics - Security and Privacy in Pervasive Computing
