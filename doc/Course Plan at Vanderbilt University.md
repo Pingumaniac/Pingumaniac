@@ -13,7 +13,7 @@
 ## Spring 2024 
 1. CS 5278: Principles of Software Engineering
 2. CS 5281: Principles of Operating Systems I
-3. CS 5891: Special Topics - Scalable Microservices
+3. CS 5287: Principles of Cloud Computing
 4. CS 6377: Topics in Embedded Software and Systems
 
 ## Fall 2024
