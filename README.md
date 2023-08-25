@@ -8,7 +8,7 @@
 * 📚 I like to read books.
 
 ## 🛠 Tech stack 
-* 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket, Rust
+* 💎 Programming Languages: C++, Go, Java, JavaScript, Python, R, Racket
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
 * 💻 Web frameworks and libraries: Bootstrap, React.js & Redux, NodeJS & ExpressJS, Flask, Spring framework
 * 💊 Data Science and Machine Learning libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn, PyTorch
