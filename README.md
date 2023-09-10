@@ -8,12 +8,13 @@
 * 📚 I like to read books.
 
 ## 🛠 Tech stack 
-* 💎 Programming Languages: C++, Go, Java, JavaScript, MATLAB, Python, R, Racket
-* 🪭 Database Management Systems (DBMS): SQL, MongoDB
-* 💻 Web frameworks and libraries: Bootstrap, React.js & Redux, NodeJS & ExpressJS, Flask, Spring framework
-* 💊 Data Science and Machine Learning libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn, PyTorch
+* 💎 Programming Languages: C++, Go, Java, JavaScript, MATLAB, OCaml, Python, R, Racket
+* 🪭 Database Management Systems (DBMS): SQL, MongoDB, BigTable, DynamoDB, InfluxDB, Map-Reduce, Spark, Apache
+Kafka, ZooKeeper
+* 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
+* 💊 Data Science and Machine Learning libraries: Keras, PyTorch
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
-* 🔫 Formal Verification Tools: NuSMV, Z3 Theorem Prover, PySMT
+* 🔫 Formal Verification Tools: NuSMV, Z3 Theorem Prover, PySMT, Nuprl
 
 <!---
 Pingumaniac/Pingumaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
