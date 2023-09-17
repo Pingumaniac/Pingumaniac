@@ -9,8 +9,7 @@
 
 ## 🛠 Tech stack 
 * 💎 Programming Languages: C++, Go, Java, JavaScript, MATLAB, OCaml, Python, R, Racket
-* 🪭 Database Management Systems (DBMS): SQL, MongoDB, BigTable, DynamoDB, InfluxDB, Map-Reduce, Spark, Apache
-Kafka, ZooKeeper
+* 🪭 Database Management Systems (DBMS): SQL, MongoDB
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
 * 💊 Data Science and Machine Learning libraries: Keras, PyTorch
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
