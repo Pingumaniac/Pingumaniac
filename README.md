@@ -3,7 +3,6 @@
 ## 👨 About Me 
 
 * 🔥 I am currently a Master's (M.Sc.) student in computer science and also a recipient of Engineering Graduate Fellowship at Vanderbilt University.
-* 🌱 My M.Sc. advisor is Professor Yu Huang (黄羽 教授). She is very nice (她很好). Her success is my success.
 * 🏋️‍♂️ I like to go to a gym.
 * 📚 I like to read books.
 
