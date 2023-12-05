@@ -11,6 +11,7 @@
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
 * 📩 Message queueing framework: ZeroMQ (ZMQ)
+* 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
 * 💊 Data Science and Machine Learning libraries: PyTorch
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: Coq, Gallina, FORMULA, NuSMV, Z3 Theorem Prover, PySMT, UPPAAL
