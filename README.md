@@ -2,12 +2,12 @@
 
 ## 👨 About Me 
 
-* 🔥 I am currently a Master's (M.Sc.) student in computer science and also a recipient of Engineering Graduate Fellowship at Vanderbilt University.
+* 🔥 I am a Master's (M.Sc.) computer science student and recipient of an Engineering Graduate Fellowship at Vanderbilt University.
 * 🏋️‍♂️ I like to go to a gym.
 * 📚 I like to read books.
 
 ## 🛠 Tech stack 
-* 💎 Programming Languages: C++, Go, Java, JavaScript, OCaml, Python, R, Racket
+* 💎 Programming Languages: C++, Go, Java, JavaScript, OCaml, Python, R, Racket, Scala
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
 * 📩 Message queueing framework: ZeroMQ (ZMQ)
