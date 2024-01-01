@@ -17,7 +17,7 @@
 * 🔫 Formal Verification Tools: Coq, Gallina, FORMULA, NuSMV, Z3 Theorem Prover, PySMT, UPPAAL
 * 🔧 Software Testing Tools: Mockito
 * 📲 Automatic Lexer/Parser Generation Tools: ANTLR v4
-* 🪄 Modeling Languages: UML, ER model, Petri-nets
+* 🪄 Modeling Tools: UML, ER model, Petri-nets
 
 <!---
 Pingumaniac/Pingumaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
