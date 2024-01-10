@@ -9,10 +9,10 @@
 ## 🛠 Tech stack 
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Kotlin, Python, R, Racket, Rust, Scala
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB, Redis
-* 🎏 Data Stream Management Systems: Apache Kafka, Apache Avro, Kafka Connect, REST Proxy, Faust, KSQL, Apache Spark, Spark SQL
+* 🎏 Data Stream Management Systems: Apache Kafka, Kafka Connect, REST Proxy, Faust, KSQL, Apache Spark, Spark SQL
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
 * 📩 Message queueing framework: ZeroMQ (ZMQ), RabbitMQ
-* 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
+* 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON, Apache Avro
 * 💊 Data Science and Machine Learning libraries: PyTorch
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: Coq, Gallina, FORMULA, NuSMV, Z3 Theorem Prover, PySMT, UPPAAL
