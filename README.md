@@ -14,7 +14,7 @@
 * 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
 * 💊 Data Science and Machine Learning libraries: PyTorch
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
-* 🔫 Formal Verification Tools: Coq, Gallina, FORMULA, NuSMV, Z3 Theorem Prover, PySMT, UPPAAL
+* 🔫 Formal Verification Tools: FORMULA, NuSMV, Z3 Theorem Prover, PySMT, UPPAAL
 * 🔧 Software Testing Tools: Mockito
 * 📲 Automatic Lexer/Parser Generation Tools: ANTLR v4
 * 🪄 Modeling Tools: UML, ER model, Petri-nets
