@@ -10,7 +10,7 @@
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Kotlin, Python, R, Scala
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
-* 📩 Message queueing framework: ZeroMQ (ZMQ), RabbitMQ
+* 📩 Message queueing framework: ZeroMQ (ZMQ)
 * 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
 * 💊 Data Science and Machine Learning libraries: PyTorch
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
