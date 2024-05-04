@@ -15,7 +15,7 @@
 * 💊 Data Science and Machine Learning libraries: PyTorch, Tensorflow
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: NuSMV, Z3 Theorem Prover, PySMT, UPPAAL
-* 🔧 Software Testing Tools: American Fuzzy Loop (AFL), EvoSuite, gcov, JUnit, Mockito
+* 🔧 Software Testing Tools: American Fuzzy Loop (AFL), EvoSuite, gcov, JUnit, Mockito, Gherkin, Cucumber
 * 🎛️ Language Workbenches: Xtext
 * 📲 Automatic Lexer/Parser Generation Tools: ANTLR v4
 * 🪄 Modeling Tools: UML, ER model, Petri-nets
