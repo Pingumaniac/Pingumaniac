@@ -8,7 +8,7 @@
 
 ## 🛠 Tech stack 
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Kotlin, Python, R, Rust, Scala
-* 🪭 Database Management Systems (DBMS): SQL, MongoDB
+* 🪭 Database Management Systems (DBMS): SQL, MongoDB, Redis, HBase, Apache Cassandra, Neo4j
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
 * 📩 Message queueing framework: ZeroMQ (ZMQ)
 * 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
