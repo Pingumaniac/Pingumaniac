@@ -8,7 +8,7 @@
 
 ## 🛠 Tech stack 
 * 💎 Programming Languages: C++, Go, Java, JavaScript, Kotlin, Python, R, Rust, Scala
-* 🪭 Database Management Systems (DBMS): SQL, MongoDB, Redis, HBase, Apache Cassandra, Neo4j
+* 🪭 Database Management Systems (DBMS): SQL, MongoDB
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
 * 📩 Message queueing framework: ZeroMQ (ZMQ)
 * 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
@@ -16,7 +16,6 @@
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: FORMULA, NuSMV, Z3 Theorem Prover, PySMT, UPPAAL
 * 🔧 Software Testing Tools: American Fuzzy Loop (AFL), EvoSuite, gcov, JUnit, Mockito, Gherkin, Cucumber
-* 🎛️ Language Workbenches: Xtext, JetBrains MPS
 * 📲 Automatic Lexer/Parser Generation Tools: ANTLR v4
 * 🪄 Modeling Tools: UML, ER model, Petri-nets
 
