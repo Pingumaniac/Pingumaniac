@@ -7,7 +7,7 @@
 * 📚 I like to read books.
 
 ## 🛠 Tech stack 
-* 💎 Programming Languages: C++, Go, Java, JavaScript, Kotlin, Python, R, Rust, Scala
+* 💎 Programming Languages: C, C++, Go, Java, JavaScript, Kotlin, Python, R, Rust
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
 * 📩 Message queueing framework: ZeroMQ (ZMQ)
