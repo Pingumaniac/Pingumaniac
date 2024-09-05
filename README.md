@@ -2,7 +2,7 @@
 
 ## 👨 About Me 
 
-* 🔥 I am a Master's (M.Sc.) computer science student and recipient of an Engineering Graduate Fellowship at Vanderbilt University.
+* 🔥 I am a Master of Science in (M.Sc.) computer science student and recipient of an Engineering Graduate Fellowship at Vanderbilt University. Thus, I am an incoming Online Master of Science in computer science (OMSCS) student at Georgia Institute of Technology.
 * 🏋️‍♂️ I like to go to a gym.
 * 📚 I like to read books.
 
