@@ -14,7 +14,7 @@
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
 * 📩 Message queueing framework: ZeroMQ (ZMQ)
 * 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
-* 💊 Data Science and Machine Learning libraries: PyTorch, Tensorflow
+* 💊 Data Science and Machine Learning libraries: PyTorch, Tensorflow, Keras, ONNX
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: FORMULA, NuSMV, NNV, Z3 Theorem Prover, PySMT, UPPAAL
 * 🔧 Software Testing Tools: American Fuzzy Loop (AFL), EvoSuite, gcov, JUnit, Mockito, Gherkin, Cucumber
