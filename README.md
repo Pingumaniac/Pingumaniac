@@ -16,8 +16,6 @@
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: FORMULA, NuSMV, Z3 Theorem Prover, PySMT, UPPAAL
 * 🔧 Software Testing Tools: American Fuzzy Loop (AFL), EvoSuite, gcov, JUnit, Mockito, Gherkin, Cucumber
-* 📲 Automatic Lexer/Parser Generation Tools: ANTLR v4
-* 🪄 Modeling Tools: UML, ER model, Petri-nets
 
 <!---
 Pingumaniac/Pingumaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
