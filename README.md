@@ -7,7 +7,7 @@
 * 📚 I like to read books.
 
 ## 🛠 Tech stack 
-* 💎 Programming Languages: C, C++, Go, Java, JavaScript, Kotlin, Python, R, Rust
+* 💎 Programming Languages: C, C++, Go, Java, JavaScript, Kotlin, Python, Rust
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
 * 💌 Distributed Messaging System: Apache Kafka
 * 🥢 Data Processing Framework: MapReduce
@@ -16,7 +16,7 @@
 * 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
 * 💊 Data Science and Machine Learning libraries: PyTorch, Tensorflow
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
-* 🔫 Formal Verification Tools: FORMULA, NuSMV, Z3 Theorem Prover, PySMT, UPPAAL
+* 🔫 Formal Verification Tools: FORMULA, NuSMV, NNV, Z3 Theorem Prover, PySMT, UPPAAL
 * 🔧 Software Testing Tools: American Fuzzy Loop (AFL), EvoSuite, gcov, JUnit, Mockito, Gherkin, Cucumber
 
 <!---
