@@ -9,9 +9,8 @@
 ## 🛠 Tech stack 
 * 💎 Programming Languages: C, C++, Go, Java, JavaScript, Kotlin, Python, Rust
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
-* 💌 Distributed Messaging System: Apache Kafka
-* 🥢 Data Processing Framework: MapReduce
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
+* 💌 Cloud Computing: Docker, Kubernetes, Ansible, Apache Kafka, MapReduce
 * 📩 Message queueing framework: ZeroMQ (ZMQ)
 * 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
 * 💊 Data Science and Machine Learning libraries: PyTorch, Tensorflow, Keras, ONNX
