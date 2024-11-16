@@ -10,7 +10,7 @@
 * 💎 Programming Languages: C, C++, Go, Java, JavaScript, TypeScript, Python, Rust
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
 * 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
-* 💌 Cloud Computing: Docker, Kubernetes, Ansible, Apache Kafka, MapReduce
+* 💌 Cloud Computing: Docker, Kubernetes, MapReduce
 * 📩 Message queueing framework: ZeroMQ (ZMQ)
 * 📨 Data serialization/deserialization: Protocol Buffers (Protobuf), JSON
 * 💊 Data Science and Machine Learning libraries: PyTorch, Tensorflow, Keras, ONNX
