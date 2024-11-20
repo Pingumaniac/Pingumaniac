@@ -9,7 +9,7 @@
 ## 🛠 Tech stack 
 * 💎 Programming Languages: C, C++, Go, Java, JavaScript, TypeScript, Python, Rust
 * 🪭 Database Management Systems (DBMS): SQL, MongoDB
-* 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, FastAPI, Spring framework
+* 💻 Web frameworks and libraries: MERN stack, Bootstrap, Flask, Spring framework
 * 💌 Cloud Computing: Docker, Kubernetes, MapReduce
 * 📩 Message queueing framework: ZeroMQ (ZMQ)
 * 💊 Data Science and Machine Learning libraries: PyTorch, Tensorflow, Keras, ONNX
