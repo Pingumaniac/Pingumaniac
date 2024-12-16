@@ -2,7 +2,7 @@
 
 ## 👨 About Me 
 
-* 🔥 I am an incoming Online Master of Science in computer science (OMSCS) student at Georgia Institute of Technology, specialising in Computing Systems. I will be graduating with a Master of Science in Computer Science (M.Sc.) degree from Vanderbilt University in December 2024, where I was also a recipient of the Engineering Graduate Fellowship.
+* 🔥 I am an incoming Online Master of Science in computer science (OMSCS) student at Georgia Institute of Technology, specialising in Computing Systems. I graduated with a Master of Science in Computer Science (M.Sc.) degree from Vanderbilt University in December 2024, where I was also a recipient of the Engineering Graduate Fellowship.
 * 🏋️‍♂️ I like to go to a gym.
 * 📚 I like to read books.
 
