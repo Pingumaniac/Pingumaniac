@@ -15,7 +15,7 @@
 * 💊 Data Science and Machine Learning libraries: PyTorch, Tensorflow, Keras, ONNX
 * 🔮 UI/UX Design Tools: Figma, Adobe XD
 * 🔫 Formal Verification Tools: NuSMV, NNV, Z3 Theorem Prover, PySMT, UPPAAL
-* 🔧 Software Testing Tools: American Fuzzy Loop (AFL), EvoSuite, gcov, JUnit, Mockito, Gherkin, Cucumber
+* 🔧 Software Testing Tools: American Fuzzy Loop (AFL), EvoSuite, gcov, JUnit, Mockito
 
 <!---
 Pingumaniac/Pingumaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
